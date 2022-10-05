@@ -15,3 +15,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+Live Interaction with Dashboard (Novy Pro) : https://www.novypro.com/project/dat-analysis-using-microsoft-power-bi-atliq-hospitality
+
+Live Interaction with Dashboard (Power BI) : https://app.powerbi.com/groups/me/reports/bc35eeb9-1021-4a4e-9e99-68c5fdadf1ce/ReportSection
